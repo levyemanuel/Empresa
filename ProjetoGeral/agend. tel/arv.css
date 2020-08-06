@@ -1,0 +1,99 @@
+*{
+  font-family: ;
+  padding: 10px;
+  color: white;
+}
+body{
+    background-color: silver;
+}
+.gestao{
+    background-color: rgb(255, 157, 0);
+    padding: 15px;
+    margin-right: 1000px;
+    border-radius: 4px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.cont1{
+  background-color: rgb(255, 157, 0);
+  padding: 15px;
+  margin-right: 1000px;
+  border-radius: 4px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.cont2{
+  background-color: rgb(255, 157, 0);
+  padding: 15px;
+  margin-right: 1000px;
+  border-radius: 4px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.contCso{
+  background-color: rgb(255, 157, 0);
+  padding: 15px;
+  margin-right: 1000px;
+  border-radius: 4px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.contju{
+  background-color: rgb(255, 157, 0);
+  padding: 15px;
+  margin-right: 1000px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.contma{
+  background-color: rgb(255, 157, 0);
+  padding: 15px;
+  margin-right: 1000px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.contfin{
+  background-color: rgb(255, 157, 0);
+  padding: 15px;
+  margin-right: 1000px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.contdh{
+  background-color: rgb(255, 157, 0);
+  padding: 15px;
+  margin-right: 1000px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.contqsma{
+  background-color: rgb(255, 157, 0);
+  padding: 15px;
+  margin-right: 1000px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.conttic{
+  background-color: rgb(255, 157, 0);
+  padding: 15px;
+  margin-right: 1000px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.contfac{
+  background-color: rgb(255, 157, 0);
+  padding: 15px;
+  margin-right: 1000px;
+  border-radius: 4px;
+  text-align: center;
+}
